@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Mall
+ *
+ */
+module LearningAboutCollections {
+}
